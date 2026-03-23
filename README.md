@@ -2,7 +2,7 @@
 
 An AI-powered, full-stack choose-your-own-adventure story generator. Enter any theme and a large language model generates a complete branching narrative with multiple paths and endings — in seconds.
 
-🔗 **Live Demo:** (https://llm-story-forge.vercel.app/) | 📦 **Backend API:** (https://llm-story-forge.onrender.com)
+🔗 **Live Demo:** (https://llm-story-forge.vercel.app/) | 📦 **Backend API:** (https://llm-story-forge.onrender.com)](https://llm-story-forge.onrender.com/docs)
 
 ---
 
