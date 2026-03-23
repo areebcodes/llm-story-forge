@@ -21,7 +21,7 @@ An AI-powered, full-stack choose-your-own-adventure story generator. Enter any t
 
 **Backend:** Python 3.13 · FastAPI · SQLAlchemy · SQLite · LangChain · LangChain-Groq · Pydantic · Uvicorn
 
-**Frontend:** React 18 · Vite · React Router v6 · Axios · CSS3
+**Frontend:** React 19 · Vite · React Router v6 · Axios · CSS3
 
 **AI / LLM:** Groq API · LLaMA 3.1 8B · Pydantic Output Parsers · Prompt Engineering
 
