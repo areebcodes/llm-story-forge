@@ -43,9 +43,7 @@ uvicorn main:app --reload
 Create `backend/.env`:
 
 GROQ_API_KEY=your_key_here
-
 DATABASE_URL=sqlite:///./databse.db
-
 ALLOWED_ORIGINS=http://localhost:5173
 
 **Frontend**
